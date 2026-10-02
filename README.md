@@ -1,4 +1,5 @@
-## Hi there 👋
+### Data Science Undergraduate | Beginner Developer
+Currently working on a full-scale GitHub Portfolio
 
 <!--
 **CarrottFarmer/CarrottFarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
